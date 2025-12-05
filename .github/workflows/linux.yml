@@ -41,7 +41,8 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-addons
           haxelib install flixel-ui
-          haxelib install hscript
+          haxelib install script
+          haxelib install hxcodec
           haxelib install akifox-asynchttp
           haxelib install flixel-addons
           haxelib install newgrounds
