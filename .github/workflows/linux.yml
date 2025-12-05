@@ -49,7 +49,7 @@ jobs:
           haxelib install akifox-asynchttp
           haxelib install hxp
           haxelib git faxe https://github.com/uhrobots/faxe
-          haxelib git polymod https://github.com/MasterEric/polymod.git
+          haxelib install polymod 
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib git flixel-textureatlas-yoshiengine https://github.com/YoshiCrafter29/Flixel-TextureAtlas-YoshiCrafterEngine
           haxelib git hscript-yoshiengine https://github.com/YoshiCrafter29/hscript-improved
